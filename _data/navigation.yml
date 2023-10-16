@@ -7,14 +7,11 @@ main:
   - title: "Work Experience"
     url: /work/
 
-  - title: "Publications"
+  - title: "Publications and Awards"
     url: /publications/ 
         
-  - title: "Blog Posts"
+  - title: "Contributing back to society"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
