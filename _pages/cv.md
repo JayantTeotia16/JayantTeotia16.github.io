@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume(pdf)](http://academicpages.github.io/files/Resume.pdf)
+
 Education
 ======
 * Indian Institute of Technology Roorkee
@@ -56,9 +58,9 @@ Skills
 Service and leadership
 ======
 * Head of Vehicle dynamics and controls verticle at IIT Roorkee Motorsports.
-* {Unnat Bharat Abhiyan(UBA), IIT Roorkee}: Initiative leader for Mushroom Production Initiative to create awareness among the people and help them train for Mushroom production which is high ROI(return on investment) with low-risk factor. Member of the team which carried out the Adolescence Awareness Initiative for students of the village Chharba.
-* {National Service Scheme}: Responsible for teaching high school and senior secondary school students. Organized various social events such as blood donation camp and awareness rallies.
-* {Student Mentorship Program}: Mentored 7 freshmen year students of branch Mechanical and Industrial Engineering as a part of this Program.
+* Unnat Bharat Abhiyan, IIT Roorkee: Initiative leader for Mushroom Production Initiative to create awareness among the people and help them train for Mushroom production which is high ROI(return on investment) with low-risk factor. Member of the team which carried out the Adolescence Awareness Initiative for students of the village Chharba.
+* National Service Scheme: Responsible for teaching high school and senior secondary school students. Organized various social events such as blood donation camp and awareness rallies.
+* Student Mentorship Program: Mentored 7 freshmen year students of branch Mechanical and Industrial Engineering as a part of this Program.
 
 Publications
 ======
