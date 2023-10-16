@@ -11,7 +11,11 @@ redirect_from:
 
 Education
 ======
-* 
+* Indian Institute of Technology Roorkee
+  * Bachelors in Mechanical Engineering
+
+* DAV Public School, New Delhi
+  * Senior Secondary School (CBSE)
 
 Work experience
 ======
