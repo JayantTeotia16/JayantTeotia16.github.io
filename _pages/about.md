@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The idea of Jayant was concepted in 1997 in a small town northern India. 
+The idea of Jayant was concepted in 1997 in a small town of northern India. 
 
 
 
