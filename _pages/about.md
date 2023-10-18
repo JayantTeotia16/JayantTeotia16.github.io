@@ -11,7 +11,7 @@ redirect_from:
 Currently, I am a Research Associate at Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore. My work mainly incorporates deep neural networks for image detection and segmentation for images of different modalities(Electro-optical and IR/Depth). This work also entails research on contrastive learning, gated fusion units and lossmix augmentations.
 
 
-<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+<!--<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
 
 In the late 20th century, in a quaint northern Indian town, Jayant was introduced to this world. This was an era poised on the brink of a monumental shift into the age of the internet, a time when digital interconnectivity was on the cusp of a breathtaking and, indeed, unfathomable integration into human civilization. India, however, remained somewhat distant from this rapid evolution, much like Jayant himself.
 
@@ -29,6 +29,6 @@ During this era, the world grappled with an overwhelming surge of data, unsure o
 
 Jayant's primary focus at this juncture centered on the use of neural networks for computer vision. His work included creating CNNs for image segmentation and detection, employing Generative Adversarial Networks (GANs), and exploring diffusion models for data generation.
 
-Now, in the present, Jayant and the ever-evolving world find themselves standing at a crucial juncture, tasked with leveraging these creative innovations and inventions to address the remaining limitations, as they continue to shape the future.
+Now, in the present, Jayant and the ever-evolving world find themselves standing at a crucial juncture, tasked with leveraging these creative innovations and inventions to address the remaining limitations, as they continue to shape the future.-->
 
 
