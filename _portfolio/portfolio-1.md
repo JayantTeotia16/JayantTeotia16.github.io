@@ -1,6 +1,6 @@
 ---
-title: "Jayant"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Vehicle Dynamics and Controls head, IIT Roorkee Motorsports"
+excerpt: "Roorkee Motorsports Team <br/><img src='/images/IITRMS.JPG'>"
 collection: portfolio
 ---
 
