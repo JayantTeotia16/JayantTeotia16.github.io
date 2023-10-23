@@ -1,7 +1,8 @@
 ---
-title: "Jayant"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Research Assisstant @ Robert bosch Centre for Cyber Physical Systems, IISC Bangalore"
+excerpt: "Creating DNNs for multimaodal image fusion and segmentation.<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Implemented rotation equivariant detector and oriented RCNN for object detection in remote sensing images to better detect small instances of objects on Nvidia A6000.
+* Submitted a paper to ICRA.
