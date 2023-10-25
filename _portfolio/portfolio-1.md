@@ -4,4 +4,7 @@ excerpt: "Roorkee Motorsports Team <br/><img src='/images/IITRMS.JPG'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Led the Vehicle Dynamics division of IITR's Formula SAE team, leading the development of the RMS E-19, a formula-style electric race car.
+* Designed an algorithm for implementing Simultaneous Localization and Mapping (SLAM) and Model Predictive Control for simulating an autonomous Formula Student car.
+* Pioneered the creation of vehicle dynamics models for performance simulation and a lap-time simulator, resulting in optimized design parameters and a reduction in lap-time by 2 seconds.
+* Undertook the development of a comprehensive mathematical steering model using MATLAB/Simulink, demonstrating strong technical expertise and problem-solving skills.
