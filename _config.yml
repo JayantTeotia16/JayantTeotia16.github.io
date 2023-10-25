@@ -184,14 +184,14 @@ collections:
   work:
     output: true
     permalink: /:collection/:path/
-  posts:
+  social:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
+  # _social
   - scope:
       path: ""
       type: pages

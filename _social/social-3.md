@@ -1,6 +1,6 @@
 ---
 title: "Student Mentorship Program"
-collection: posts
+collection: social
 
 ---
 

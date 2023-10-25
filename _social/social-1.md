@@ -1,6 +1,6 @@
 ---
 title: "National Service Scheme"
-collection: posts
+collection: social
 
 ---
 
