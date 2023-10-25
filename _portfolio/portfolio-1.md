@@ -2,6 +2,8 @@
 title: "Bachelor Thesis, IIT Roorkee"
 excerpt: "Mechanical and Control System Design of Human Assisting Droid<br/>"
 collection: portfolio
+read_more: disabled
+
 ---
 
 * Spearheaded the design and fabrication of a warehouse robot, incorporating a stationary robotic arm and a four-wheeled differential drive bot.
