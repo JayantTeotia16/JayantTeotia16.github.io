@@ -1,10 +1,13 @@
 ---
-title: "Vehicle Dynamics and Controls head, IIT Roorkee Motorsports"
-excerpt: "Roorkee Motorsports Team <br/><img src='/images/IITRMS.JPG'>"
+title: "Bachelor Thesis, IIT Roorkee"
+excerpt: "Mechanical and Control System Design of Human Assisting Droid<br/>"
 collection: portfolio
 ---
 
-* Led the Vehicle Dynamics division of IITR's Formula SAE team, leading the development of the RMS E-19, a formula-style electric race car.
-* Designed an algorithm for implementing Simultaneous Localization and Mapping (SLAM) and Model Predictive Control for simulating an autonomous Formula Student car.
-* Pioneered the creation of vehicle dynamics models for performance simulation and a lap-time simulator, resulting in optimized design parameters and a reduction in lap-time by 2 seconds.
-* Undertook the development of a comprehensive mathematical steering model using MATLAB/Simulink, demonstrating strong technical expertise and problem-solving skills.
+* Spearheaded the design and fabrication of a warehouse robot, incorporating a stationary robotic arm and a four-wheeled differential drive bot.
+* Engineered an electrical circuit and developed a control algorithm for Bluetooth-enabled teleoperation of the bot.
+* Successfully integrated the control algorithm into a simulator to facilitate autonomous obstacle avoidance for the differential drive bot within the ROS (Robot Operating System) framework.
+* Implemented advanced techniques such as SLAM (Simultaneous Localization and Mapping) and gap-following strategy for effective obstacle avoidance.
+
+[Bachelor Thesis Report](http://JayantTeotia16.github.io/files/BTP_Report.pdf) 
+
