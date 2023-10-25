@@ -194,10 +194,11 @@ defaults:
   # _social
   - scope:
       path: ""
-      type: pages
+      type: social
     values:
       layout: single
       author_profile: true
+      comment: true
   # _pages
   - scope:
       path: ""
