@@ -2,7 +2,6 @@
 title: "Vehicle Dynamics and Controls head, IIT Roorkee Motorsports"
 excerpt: "Roorkee Motorsports Team <br/><img src='/images/IITRMS.JPG'>"
 collection: portfolio
-read_more: disabled
 ---
 
 * Led the Vehicle Dynamics division of IITR's Formula SAE team, leading the development of the RMS E-19, a formula-style electric race car.
