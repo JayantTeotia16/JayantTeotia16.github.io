@@ -184,7 +184,7 @@ collections:
   work:
     output: true
     permalink: /:collection/:path/
-  social:
+  posts:
     output: true
     permalink: /:collection/:path/
 
@@ -221,7 +221,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comment: true
   # _work
   - scope:
@@ -230,7 +229,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comment: true
   # _talks
   - scope:
