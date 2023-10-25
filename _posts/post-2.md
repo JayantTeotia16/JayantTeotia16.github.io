@@ -1,6 +1,6 @@
 ---
 title: "Unnat Bharat Abhiyan, IIT Roorkee"
-collection: portfolio
+collection: posts
 
 ---
 
