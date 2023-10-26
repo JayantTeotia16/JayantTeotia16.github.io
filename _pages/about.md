@@ -16,7 +16,7 @@ Having experimenting with language models, at my own time, has also, given me a 
 <!--[Read More](http://JayantTeotia16.github.io/files/Resume.pdf){: .btn}-->
 
 <details>
-  <summary>Read More{: .btn}</summary>
+  <summary>[Read More]{: .btn}</summary>
 
   In the late 20th century, in a quaint northern Indian town, Jayant was introduced to this world. This was an era poised on the brink of a monumental shift into the age of the internet, a time when digital interconnectivity was on the cusp of a breathtaking and, indeed, unfathomable integration into human civilization. India, however, remained somewhat distant from this rapid evolution, much like Jayant himself.
 
