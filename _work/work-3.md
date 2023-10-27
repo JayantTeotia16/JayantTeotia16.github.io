@@ -1,5 +1,5 @@
 ---
-title: "Research Intern @ AI and Robotics Technology Park, IISC Bangalore"
+title: "Research Intern @ AI and Robotics Technology Park"
 excerpt: "Object detection and Robot simulations using ROS<br/>"
 collection: portfolio
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Research Associate @ AI and Robotics Technology Park, IISC Bangalore"
+title: "Research Associate @ AI and Robotics Technology Park"
 excerpt: "Object detection and creating algorithms for simulation of swarm of UAVs in multiple scenarios<br/>"
 collection: portfolio
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Research Assisstant @ Robert bosch Centre for Cyber Physical Systems, IISC Bangalore"
+title: "Research Assistant @ Robert bosch Centre for Cyber Physical Systems, IISC Bangalore"
 excerpt: "Creating DNNs for multimaodal image fusion and segmentation.<br/>"
 collection: portfolio
 ---

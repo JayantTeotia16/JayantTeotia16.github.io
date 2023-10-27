@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I have been a part of Robert Bosch Centre for Cyber Physical Systems, IISc Bangalore in the capacity of a Research assistant, since last year. My work mainly incorporates exploring deep neural networks for image detection and segmentation for different modalities(Electro-optical and IR/Depth). For this, I have been researching on fusion at image and feature levels, knowledge distillation and contrastive learning. 
+I have been a research assistant at Robert Bosch Centre for Cyber-Physical Systems, IISc Bangalore, since last year. My projects incorporate analyzing deep neural networks for image detection and segmentation for different modalities(Electro-optical and IR/Depth) and creating a novel method to improve segmentation accuracy for the missing modality scenario. For this, I have been researching fusion at image and feature levels, knowledge distillation, and contrastive learning. 
 
-Having experimenting with language models, at my own time, has also, given me a considerable experiance on working with NLP models. Generally speaking, I want to work in advancing AI for NLP and vision. If you want to know more about my work or want to collaborate for an exciting project, you can contact me through linkedin.
+Having experimented with language models has also given me considerable experience in working with NLP models. In broad terms, I am enthusiastic about contributing to the progression of AI in both NLP and computer vision. If you would like to explore my work further or discuss potential collaboration on a project, please contact me via LinkedIn.
 
 
 <!--[Read More](http://JayantTeotia16.github.io/files/Resume.pdf){: .btn}-->
 
 <details>
-  <summary><b>Something more about me</b></summary>
+  <summary><b>Found me interesting?...Something more about me</b></summary>
 
   In the late 20th century, in a quaint northern Indian town, Jayant was introduced to this world. This was an era poised on the brink of a monumental shift into the age of the internet, a time when digital interconnectivity was on the cusp of a breathtaking and, indeed, unfathomable integration into human civilization. India, however, remained somewhat distant from this rapid evolution, much like Jayant himself.
 
