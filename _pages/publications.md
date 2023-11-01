@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-=======
+## Publications
 
-Awards
-======
+## Awards
 
 * Received MCM Scholarship for a period of 2 years, awarded by IIT Roorkee
 * Secured First rank in acceleration event and Third rank overall in formula student competition - Formula Green 2020
