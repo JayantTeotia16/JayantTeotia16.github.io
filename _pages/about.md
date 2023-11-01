@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I have been a research assistant at Robert Bosch Centre for Cyber-Physical Systems, IISc Bangalore, since last year. My projects incorporate analyzing deep neural networks for image detection and segmentation for different modalities(Electro-optical and IR/Depth) and creating a novel method to improve segmentation accuracy for the missing modality scenario. For this, I have been researching fusion at image and feature levels, knowledge distillation, and contrastive learning. 
+I currently work as a research assistant at RBCCPS, IISc Bangalore. My research project is based on image segmentation in multi-modal(EO-IR/Depth) scenarios. To this end, I am working to improve the mean accuracy in the case of missing modality which incorporates knowledge distillation from a single source to better generalize/fuse the image features in feature space. I am also making use of contrastive learning and loss mix augmentation and evolving them for the segmentation task.
 
-Having experimented with language models has also given me considerable experience in working with NLP models. In broad terms, I am enthusiastic about contributing to the progression of AI in both NLP and computer vision. If you would like to explore my work further or discuss potential collaboration on a project, please contact me via LinkedIn.
-
-
-<!--[Read More](http://JayantTeotia16.github.io/files/Resume.pdf){: .btn}-->
+Fundamentally, my interests lie in AI in computer vision, though my curiosity in NLP has led me in experimenting with transformers for LLM. I would be interested in a research opportunity . If you would like to know more about my research or want to collaborate on a project, please reach me out through LinkedIn.
 
 <details>
   <summary><b>Found me interesting?...Something more about me</b></summary>
