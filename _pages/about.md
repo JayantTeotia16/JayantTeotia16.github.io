@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<b>(Site under construction)</b
+<b>(Site under construction)</b>
 
 I currently work as a research assistant at RBCCPS, IISc Bangalore. My research project is based on image segmentation in multi-modal(EO-IR/Depth) scenarios. To this end, I am working to improve the mean accuracy in the case of missing modality which incorporates knowledge distillation from a single source to better generalize/fuse the image features in feature space. I am also making use of contrastive learning and loss mix augmentation and evolving them for the segmentation task.
 
