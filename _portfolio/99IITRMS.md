@@ -1,6 +1,6 @@
 ---
 title: "Vehicle Dynamics and Controls head @IIT Roorkee Motorsports"
-excerpt: "Roorkee Motorsports Team <br/><img src='/images/IITRMS.JPG'>"
+excerpt: "<br/><img src='/images/IITRMS.png'>"
 collection: portfolio
 read_more: disabled
 ---
