@@ -1,6 +1,6 @@
 ---
-title: "CSK-Net for feature fusion in muti-modal scenarios, RBCCPS"
-excerpt: "<br/>"
+title: "CSK-Net for feature fusion in muti-modal scenarios @RBCCPS"
+excerpt: "<br/><img src='/images/CSK-Net.png'>"
 collection: portfolio
 
 ---

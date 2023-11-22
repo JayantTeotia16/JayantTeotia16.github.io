@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Dynamics and Controls head, IIT Roorkee Motorsports"
+title: "Vehicle Dynamics and Controls head @IIT Roorkee Motorsports"
 excerpt: "Roorkee Motorsports Team <br/><img src='/images/IITRMS.JPG'>"
 collection: portfolio
 read_more: disabled

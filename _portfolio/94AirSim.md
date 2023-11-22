@@ -1,5 +1,5 @@
 ---
-title: "Search and Monitor, Artpark"
+title: "Search and Monitor @Artpark"
 excerpt: "<br/>"
 collection: portfolio
 
@@ -7,7 +7,7 @@ collection: portfolio
 
 Due to climate change, forest fires, floods and other natural calamities are happening more frequently. Often, it is not possible for humans to immediately access the area for monitoring and providing relief. A swarm of UAVs would be very useful to survey the affected area, search for missing people or provide relief autonomously. This was the main motivation of the project- 'Searh and Monitor'.
 
-'All the simulations were conducted on AirSim in 'Africa' environment. A rectangular boundary was marked in the environment on which 'n' drones were kept. The objective of the experiment was to search for the 'target drone' parked within the boundary and monitor(follow if the object is dynamic) it. 
+All the simulations were conducted on AirSim in 'Africa' environment. A rectangular boundary was marked in the environment on which 'n' drones were kept. The objective of the experiment was to search for the 'target drone' parked within the boundary and monitor(follow - if the object is dynamic) it. 
 
 The Vornoi algorithm was adopted to divide the areas for the individual UAVs within the swarms to cover and the minimum spanning tree algorithm was used to generate path in the divided area.
 
