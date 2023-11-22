@@ -1,6 +1,6 @@
 ---
 title: "Search and Monitor @Artpark"
-excerpt: "<br/>"
+excerpt: "<br/><img src='/images/Africa1.png'>"
 collection: portfolio
 
 ---

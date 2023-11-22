@@ -1,6 +1,6 @@
 ---
 title: "Bachelor Thesis @IIT Roorkee"
-excerpt: "Mechanical and Control System Design of Human Assisting Droid<br/>"
+excerpt: "Mechanical and Control System Design of Human Assisting Droid<br/><img src='/images/BTP.png'>"
 collection: portfolio
 
 ---
