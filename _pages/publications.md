@@ -7,6 +7,10 @@ author_profile: true
 
 ## Publications
 
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 ## Awards
 
 * Received MCM Scholarship for a period of 2 years, awarded by IIT Roorkee
