@@ -15,5 +15,5 @@ Essentially, my interests lie in AI in computer vision and I would be interested
 
 ### News
 
-- 29th Jan, 2024 - Paper accepted at ICRA'24 (Link and code will be provided soon).
-- 11th Jan, 2024 - Gave a talk on Object Detection at Faculty Development Program (IISc).
+* 29th Jan, 2024 - Paper accepted at ICRA'24 (Link and code will be provided soon).
+* 11th Jan, 2024 - Gave a talk on Object Detection at Faculty Development Program (IISc).
