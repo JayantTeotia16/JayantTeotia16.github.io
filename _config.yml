@@ -87,9 +87,9 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=J8xcaa8AAAAJ&hl=en"
-  email            : "jayantteotia19@gmail.com"
+  email            : "jayantteotia19 at gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://JayantTeotia16.github.io/jayBlog"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -181,9 +181,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  work:
-    output: true
-    permalink: /:collection/:path/
+  # work:
+  #   output: true
+  #   permalink: /:collection/:path/
   social:
     output: true
     permalink: /:collection/:path/

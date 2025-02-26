@@ -12,6 +12,8 @@ I am a PhD student at NTU Singapore. If you would like to know more about my res
 
 ### News
 
-* 12th Aug, 2024 - Started my PhD at NTU.
-* 29th Jan, 2024 - Paper accepted at ICRA'24 (Link and code will be provided soon).
-* 11th Jan, 2024 - Gave a talk on Object Detection at Faculty Development Program (IISc).
+* 24th Dec, 2024 - Published a paper in Proceedings of ICDM Workshops
+* 10th Dec, 2024 - Paper accepted at AAAI'25
+* 12th Aug, 2024 - Started my PhD at NTU
+* 29th Jan, 2024 - Paper accepted at ICRA'24
+* 11th Jan, 2024 - Gave a talk on Object Detection at Faculty Development Program (IISc)

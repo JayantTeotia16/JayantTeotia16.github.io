@@ -4,14 +4,8 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-  - title: "Professional Experience"
-    url: /work/
-
   - title: "Publications and Awards"
     url: /publications/ 
         
   - title: "Contributing back to society"
     url: /social/
-    
-  - title: "CV"
-    url: /cv/
