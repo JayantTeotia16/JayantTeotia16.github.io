@@ -5,14 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
 ## Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in pubs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Awards
 
-* Received MCM Scholarship for a period of 2 years, awarded by IIT Roorkee
-* Secured First rank in acceleration event and Third rank overall in formula student competition - Formula Green 2020
-* Secured an All-India-Rank of 1986 in JEE Advanced 2016 amongst 150,000 candidates
+* 1st in Acceleration and 3rd Overall, Formula Green 2020 (Formula Student competition)
+* MCM Scholarship, IIT Roorkee (2 years)
+* All India Rank 1986 in JEE Advanced 2016 among 150,000 candidates

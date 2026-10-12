@@ -3,7 +3,9 @@ title: "Evaluating Vision Language Models in Detecting Learning Engagement"
 collection: publications
 permalink: /publication/EvalSentire
 paperurl: 'https://sentic.net/detecting-learning-engagement.pdf'
-
+date: 2024-12-09
+venue: 'IEEE ICDM Workshops (ICDMW) 2024'
+citation: '<b>J. Teotia</b>, X. Zhang, R. Mao, E. Cambria. <i>Evaluating Vision Language Models in Detecting Learning Engagement.</i> IEEE ICDM Workshops (ICDMW) 2024, pp. 496–502.'
 ---
 
 With the advancement of both computer vision and
@@ -31,5 +33,7 @@ have significant room for improvement in engagement analy-
 sis. This issue can potentially be addressed by incorporating
 more classroom-specific training data or commonsense reasoning
 frameworks.
+
+<b>J. Teotia</b>, X. Zhang, R. Mao, E. Cambria. In IEEE ICDM Workshops (ICDMW) 2024, pp. 496–502.
 
 [Paper](https://sentic.net/detecting-learning-engagement.pdf)
